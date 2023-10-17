@@ -1,6 +1,6 @@
 # Askfm-Project
-First Object-Oriented Programming Project Using C++ And Some Object Oriented Concepts Like Classes, Encapsulation And Inheritance.
-This Project is Simulation of Askfm Where Users Can Ask And Answer Questions Anonymously or Publicly.
+- First Object-Oriented Programming Project Using C++ And Some Object Oriented Concepts Like Classes, Encapsulation And Inheritance.
+- This Project is Simulation of Askfm Where Users Can Ask And Answer Questions Anonymously or Publicly.
 
 # Project Features:-
 - Sign in And Sign Up.
