@@ -13,7 +13,7 @@ First Object-Oriented Programming Project Using C++ And Some Object Oriented Con
 - Show The List OF Users That Contain ID, Name, Email And Allowing OF Anonymous Questions.
 - View Answered Questions.
 - Logout.
-- System Can Run Many Users At Same Time.
+- System Can Run Many Users At Same Time As it A File Based System.
   
 ## Notes :
 - Try System From Different Account To Understand How System Work.
